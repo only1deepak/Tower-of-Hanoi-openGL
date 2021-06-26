@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1624553222 source:g:\tower of hanoi 2\main.cpp
+	<Windows.h>
+	<GL\GL.h>
+	<GL\GLU.h>
+	<GL\freeglut.h>
+	<math.h>
+	<cmath>
+	<iostream>
+	<list>
+
+1426329928 c:\program files (x86)\codeblocks\mingw\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1426329928 c:\program files (x86)\codeblocks\mingw\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426329928 c:\program files (x86)\codeblocks\mingw\include\gl\freeglut_ext.h
+	<stdarg.h>
+
